@@ -1,0 +1,79 @@
+[
+    {
+        "batch": [
+            "5cf60af4b15f302555b75cda",
+            "5d05963fb5d47010ad470f86",
+            "5d059d79b5d47010ad470f87",
+            "5d059dc7b5d47010ad470f88",
+            "5d146916ad3f91013cee6748",
+            "5d14a3840e24763f8084338d",
+            "5d14a3cd0e24763f8084338e",
+            "5d14a4350e24763f80843390"
+        ],
+        "mentors": [
+            "5cf609d9b15f302555b75cd7",
+            "5d146a2fad3f91013cee6764"
+        ],
+        "_id": "5d088606535cd7609523e653",
+        "programName": "Master of Science in Information Technology",
+        "url":"/course",
+        "programDescription": "MSIT (MS in IT or Master of Science in Information Technology) is a two year post graduate program in Computer Science started in 2001. MSIT is an innovative multi-university interdisciplinary post-graduate program. MSIT program is being offered by “Consortium of Institutions of Higher Learning” (CIHL), formed by the Universities. Under MOU with CMU, some Carnegie Mellon Researchers are providing guidance on the course content. MSIT is currently offered at International Institute of Information Technology (IIIT-H), Hyderabad, School of IT, Jawaharlal Nehru Technological University Hyderabad (JNTUH), College of Engineering, Jawaharlal Nehru Technological University Kakinada (JNTUK), College of Engineering, Jawaharlal Nehru Technological University Anantapur (JNTUA) and Sri Venkateswara University Tirupati (SVU).",
+        "curriculum": [
+            {
+                "courseInstances": [
+                    "5d0886d02b83ab642676e39c",
+                    "5d15a35a85f8a2077032c329"
+                ],
+                "_id": "5d08863e535cd7609523e654"
+            },
+            {
+                "courseInstances": [
+                    "5d0b774e48bbfd73cdccc8f6"
+                ],
+                "_id": "5d0b771a48bbfd73cdccc8f3"
+            }
+        ],
+        "__v": 0
+    },
+    {
+        "batch": [
+            "5d05963fb5d47010ad470f86",
+            "5d059dc7b5d47010ad470f88",
+            "5d059d79b5d47010ad470f87",
+            "5cf60af4b15f302555b75cda",
+            "5d146916ad3f91013cee6748",
+            "5d14a3840e24763f8084338d",
+            "5d14a3cd0e24763f8084338e",
+            "5d14a4350e24763f80843390",
+            "5d2e029c70bfa04a2af4f460"
+        ],
+        "mentors": [
+            "5cf609d9b15f302555b75cd7",
+            "5d146a2fad3f91013cee6764"
+        ],
+        "_id": "5d14697fad3f91013cee6749",
+        "programName": "MSIT",
+        "url":"/first",
+        "programDescription": "HELLO ------------------------",
+        "curriculum": [
+            {
+                "courseInstances": [
+                    "5d146a60ad3f91013cee676c",
+                    "5d35eb2325b2a5548acc6787"
+                ],
+                "_id": "5d0b771a48bbfd73cdccc8f3"
+            },
+            {
+                "courseInstances": [],
+                "_id": "5d08863e535cd7609523e654"
+            },
+            {
+                "courseInstances": [
+                    "5d35ec2c25b2a5548acc678e"
+                ],
+                "_id": "5d35ebfd25b2a5548acc678a"
+            }
+        ],
+        "__v": 0
+    }
+]
